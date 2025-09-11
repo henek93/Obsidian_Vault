@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "993a18af9f01258f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2a561bfa0eb2aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc987e659098173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/ML/Градиентный спуск.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Градиентный спуск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e7cb10239ef1fbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9acf229e1d933221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12d2e6eec2fc70b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "97f1ce94bdaa52c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "bbe71dc6028773df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "3280e5b12d675506",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2182cc487165c35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2e49c4261ef1670",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "743f5225adc8f276",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "bf4bf0de09991ace",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "73def1e04c73af9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "f9b9f045cda19523",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "cb2f4224668d30cf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "acc987e659098173",
+  "lastOpenFiles": [
+    "Программирование/ML/Линейная регрессия.md",
+    "Программирование/ML/Градиентный спуск.md",
+    "Программирование/ML/Photos/Pasted image 20250910203432.png",
+    "Программирование/ML/Функция ошибок.md",
+    "Программирование/ML/Photos/Pasted image 20250910201812.png",
+    "Программирование/ML/Photos/Pasted image 20250910201335.png",
+    "Программирование/ML/Photos/Pasted image 20250910005930.png",
+    "Программирование/ML/Photos/Pasted image 20250909223539.png",
+    "Программирование/ML/Photos/Pasted image 20250909223218.png",
+    "Программирование/ML/Photos/Pasted image 20250909222710.png",
+    "Программирование/ML/Photos/Pasted image 20250909222344.png",
+    "Программирование/ML/Photos/Pasted image 20250909222323.png",
+    "Программирование/ML/Базовые термины.md",
+    "Программирование/ML/Photos/Pasted image 20250909221437.png",
+    "Программирование/Алогитмы/О - большое.md",
+    "Программирование/Алогитмы/Бинарный поиск.md",
+    "Программирование/Алогитмы/Photos",
+    "Программирование/ML/Photos",
+    "interview_preparation.md",
+    "Android_Interview_CheatSheet.md",
+    "photo",
+    "Программирование/Без названия.md",
+    "Без названия 1.base",
+    "Без названия.base",
+    "Android_Interview_Preparation_Guide.md",
+    "Программирование/Структура даннных/Array, list, linkedList.md",
+    "Программирование/ML",
+    "Программирование/Структура даннных",
+    "Математика/Логорифмы.md",
+    "Математика",
+    "Программирование/Алогитмы",
+    "Японский язык полезная ссылка (все на русском хороший гайд).md",
+    "Пароли/Apple Id.md",
+    "Программирование/Flutter/Тема и оформление/🌐 Локализация Flutter-приложения (мультиязычность + язык системы).md",
+    "Программирование/Android/Gradle/Команда для получения SHA для android.md",
+    "Программирование/Android/Gradle",
+    "Templates/tp_dart.md",
+    "Templates/tp_flutter.md",
+    "Templates/tp+flutter_theory.md",
+    "Программирование/Flutter/Тема и оформление/🎨 Реализация темы во Flutter-приложении (автоматическая и кастомная).md",
+    "оыимоыж.md",
+    "Без названия.canvas",
+    "Программирование/Flutter/widgets/InheritedWidget.md",
+    "Программирование/Flutter/Dart/Mixin.md",
+    "Программирование/Flutter/Dart/🧬Наследование.md",
+    "Программирование/Flutter/Dart/Const.md"
+  ]
+}
