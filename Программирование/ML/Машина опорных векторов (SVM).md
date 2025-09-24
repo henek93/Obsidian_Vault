@@ -53,4 +53,3 @@
 Две точки подобны если находятся близко друг к другу.
 ![[Pasted image 20250923212332.png]]
 
-https://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@github.com/henek93/obsidian-vault.git
