@@ -154,8 +154,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -164,8 +164,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -178,6 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -186,12 +187,14 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12d2e6eec2fc70b0",
+  "active": "aa5908ba2574d785",
   "lastOpenFiles": [
+    "Программирование/ML/Photos/Pasted image 20250924192828.png",
+    "Программирование/ML/Photos/Pasted image 20250924192728.png",
+    "Программирование/ML/Photos/Pasted image 20250924192621.png",
     "Программирование/ML/Логистический классификатор.md",
     "Программирование/ML/Test totion.md",
     "Программирование/ML/Градиентный спуск.md",
@@ -204,8 +207,6 @@
     "Программирование/ML/Photos/Pasted image 20250923210054.png",
     "Программирование/ML/Photos/Pasted image 20250923203249.png",
     "Программирование/ML/Photos/Pasted image 20250923202115.png",
-    "Программирование/ML/Photos/Pasted image 20250923190805.png",
-    "Программирование/ML/Photos/Pasted image 20250923190649.png",
     "Программирование/ML/Классификация.md",
     "Программирование/ML/Функция ошибок.md",
     "Программирование/ML/Деревья решений.md",
@@ -231,7 +232,6 @@
     "interview_preparation.md",
     "Android_Interview_CheatSheet.md",
     "photo",
-    "Программирование/Без названия.md",
     "Без названия 1.base",
     "Без названия.base",
     "Программирование/ML",
