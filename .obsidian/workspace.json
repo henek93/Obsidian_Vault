@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db0bfafcc551aa0b",
+        "id": "4e7b8b815507bf52",
         "type": "tabs",
         "children": [
           {
-            "id": "5375d4889ed378d6",
+            "id": "146be8a3e7180d5e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "plan_claude.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.10.3"
+              "icon": "lucide-file",
+              "title": "plan_claude"
             }
           }
         ]
@@ -188,7 +190,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5375d4889ed378d6",
+  "active": "146be8a3e7180d5e",
   "lastOpenFiles": [
     "plan_claude.md",
     "Программирование/ML/Функции активации.md",
