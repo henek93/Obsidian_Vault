@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Зачет абдулин"
             }
+          },
+          {
+            "id": "2c0b6e7c8fdbb6bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "146be8a3e7180d5e",
+  "active": "2c0b6e7c8fdbb6bc",
   "lastOpenFiles": [
     "plan_claude.md",
     "Зачет абдулин.md",
