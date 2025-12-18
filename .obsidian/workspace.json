@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Зачет абдулин.md",
+                "file": "Тер вер и распределение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Зачет абдулин"
+              "title": "Тер вер и распределение"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "3280e5b12d675506",
@@ -193,9 +192,10 @@
   },
   "active": "146be8a3e7180d5e",
   "lastOpenFiles": [
+    "Зачет абдулин.md",
+    "Тер вер и распределение.md",
     "Photos/Pasted image 20251216224910.png",
     "Без названия.md",
-    "Зачет абдулин.md",
     "Японский язык полезная ссылка (все на русском хороший гайд).md",
     "Photos/Pasted image 20251215185914.png",
     "Photos/Pasted image 20251215175021.png",
@@ -225,7 +225,6 @@
     "Программирование/ML/Photos/Pasted image 20250925111059.png",
     "Программирование/ML/Photos/Pasted image 20250925111045.png",
     "Программирование/ML/Photos/Pasted image 20250925111027.png",
-    "Программирование/ML/Photos/Pasted image 20250925103836.png",
     "Программирование/ML/Достоверность(классификационная модель).md",
     "Программирование/ML/Базовые термины.md",
     "Программирование/ML/Test totion.md",
